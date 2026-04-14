@@ -1,6 +1,5 @@
 # BLOG
 Django Blogging Platform
-Ask DeepWiki
 
 This repository contains the source code for a full-featured blogging platform built with the Django web framework. It includes a complete content management system, user authentication, a management dashboard, and a responsive public-facing site.
 
