@@ -35,6 +35,11 @@ A robust and feature-rich blogging application built using Django. This platform
 ### 🖼️ Media Handling
 
 <img width="1365" height="718" alt="Screenshot 2026-04-14 155341" src="https://github.com/user-attachments/assets/aa5a0762-9a7c-4469-9b8a-86cc35e3a436" />
+<img width="1365" height="720" alt="Screenshot 2026-04-14 155357" src="https://github.com/user-attachments/assets/92957322-3d2d-45cb-bbd0-518faba517d2" />
+<img width="1362" height="719" alt="Screenshot 2026-04-14 155415" src="https://github.com/user-attachments/assets/525599d4-bc48-4814-ad8a-5d73293e7a18" />
+<img width="1365" height="720" alt="Screenshot 2026-04-14 155446" src="https://github.com/user-attachments/assets/63d3b054-a9b5-4c1f-be65-e090c9da7ed7" />
+
+
 
 ---
 
