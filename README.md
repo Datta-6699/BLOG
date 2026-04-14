@@ -34,7 +34,7 @@ A robust and feature-rich blogging application built using Django. This platform
 
 ### 🖼️ Media Handling
 
-* Upload and display featured images using Django’s media system.
+<img width="1365" height="718" alt="Screenshot 2026-04-14 155341" src="https://github.com/user-attachments/assets/aa5a0762-9a7c-4469-9b8a-86cc35e3a436" />
 
 ---
 
