@@ -189,12 +189,6 @@ pip freeze > requirements.txt
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
-
 ## 👨‍💻 Author
 
 **Sri Datta Undavalli**
